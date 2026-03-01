@@ -1,7 +1,7 @@
 Karpathy's [microgpt](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95), ported to JavaScript and running entirely in your browser. Train a real GPT from scratch — with your own data.
 
 
-Uploading microgpt.mp4…
+https://github.com/user-attachments/assets/3289fb43-2b51-4d17-9117-e661006c6052
 
 
 ## What is this
